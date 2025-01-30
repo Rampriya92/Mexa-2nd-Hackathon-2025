@@ -12,7 +12,7 @@ This project runs on **Google Colab**. Ensure you have access to Colab for runni
 ## Project Overview  
 This project explores how a **Multi-Agent LLM** detects **cognitive distortions** and **mood fluctuations** in a simulated month-long individual journal. The goal is to develop a **preemptive strategy** for identifying and managing **depression and anxiety**, offering insights into mental health trends over time.  
 
-The proposed system features two LLM agents. The first LLM agent named ‘Watson’ analyses and responds to the current journal entry and gives feedback on cognitive distortions and mood on the quered entry. In contrast, the second LLM agent named “Sherlock” compares Watson analyses of the recent entry to previous ones to track changes or patterns over time. Present both immediate feedback (LLM 1) and long-term trends (LLM 2) to the user.
+The proposed system features two LLM agents. The first LLM agent named ‘Watson’ analyses and responds to the current journal entry and gives feedback on cognitive distortions and mood on the quered entry. In contrast, the second LLM agent named “Sherlock” compares Watson analyses of the recent entry to previous ones to track changes or patterns over time. Present both immediate feedback (LLM 1) and long-term trends (LLM 2) to the user. Both LLM's were implemented using Gemini Generative AI.
 
 
 ## Presentation  
