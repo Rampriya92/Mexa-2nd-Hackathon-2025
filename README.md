@@ -1,5 +1,8 @@
 # Mexa-Hackathon
 # Multi-Agent LLM for Cognitive Distortion and Mood Screening  
+‘Insight box’ is an AI system proposed for the 2025 mexa 2nd hackathon, it evaluates if a  Multi-Agent LLM identifies cognitive distortions and mood fluctuations in a simulated month-long individual journal. It recieved "Honarable mention". (Coming soon! : Follow this page for a complete implementation for this system)
+
+Author: Ram Priyadharshini Ramachandran
 
 ## Environment Setup  
 This project runs on **Google Colab**. Ensure you have access to Colab for running the notebooks.  
