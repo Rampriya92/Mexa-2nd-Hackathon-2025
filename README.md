@@ -5,7 +5,7 @@
 Author: Ram Priyadharshini Ramachandran
 
 ## Environment Setup  
-This project runs on **Google Colab**. Ensure you have access to Colab for running the notebooks.  
+This project runs on **Google Colab**.  
 
 ## Files  
 - **[Journal Generator.ipynb](https://colab.research.google.com/drive/1seJBtV8bknMxI2Hp8vxURWFwn5u8sSf5?usp=sharing)** – Generates a simulated month-long journal with varied emotional tones.  
